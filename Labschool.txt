@@ -1,0 +1,117 @@
+[34mINFO [0;39m 20-09-2023 - 21:10:54.821 [main] c.e.labschool.LabschoolApplication - Starting LabschoolApplication using Java 17.0.2 with PID 13212 (C:\Users\ok\Documents\LAB365\labschool\target\classes started by ok in C:\Users\ok\Documents\LAB365\labschool)
+[34mINFO [0;39m 20-09-2023 - 21:10:54.826 [main] c.e.labschool.LabschoolApplication - No active profile set, falling back to 1 default profile: "default"
+[34mINFO [0;39m 20-09-2023 - 21:10:58.678 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34mINFO [0;39m 20-09-2023 - 21:10:59.003 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 289 ms. Found 3 JPA repository interfaces.
+[34mINFO [0;39m 20-09-2023 - 21:11:02.030 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[34mINFO [0;39m 20-09-2023 - 21:11:02.066 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[34mINFO [0;39m 20-09-2023 - 21:11:02.067 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[34mINFO [0;39m 20-09-2023 - 21:11:02.567 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[34mINFO [0;39m 20-09-2023 - 21:11:02.568 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 7491 ms
+[34mINFO [0;39m 20-09-2023 - 21:11:03.381 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34mINFO [0;39m 20-09-2023 - 21:11:03.711 [main] org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.7.Final
+[34mINFO [0;39m 20-09-2023 - 21:11:03.718 [main] org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+[34mINFO [0;39m 20-09-2023 - 21:11:04.308 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 20-09-2023 - 21:11:04.759 [main] o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34mINFO [0;39m 20-09-2023 - 21:11:04.798 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[34mINFO [0;39m 20-09-2023 - 21:11:07.134 [main] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5cc1bf20
+[34mINFO [0;39m 20-09-2023 - 21:11:07.139 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[34mINFO [0;39m 20-09-2023 - 21:11:08.798 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 20-09-2023 - 21:11:10.818 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[34mINFO [0;39m 20-09-2023 - 21:11:13.106 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[34mINFO [0;39m 20-09-2023 - 21:11:13.818 [main] o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+[31mWARN [0;39m 20-09-2023 - 21:11:16.650 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34mINFO [0;39m 20-09-2023 - 21:11:18.055 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[34mINFO [0;39m 20-09-2023 - 21:11:18.129 [main] c.e.labschool.LabschoolApplication - Started LabschoolApplication in 25.409 seconds (process running for 26.858)
+[34mINFO [0;39m 20-09-2023 - 21:11:18.137 [main] c.e.labschool.LabschoolApplication - API INICIADA COM SUCESSO.
+[34mINFO [0;39m 20-09-2023 - 21:23:44.514 [main] c.e.labschool.LabschoolApplication - Starting LabschoolApplication using Java 17.0.2 with PID 11256 (C:\Users\ok\Documents\LAB365\labschool\target\classes started by ok in C:\Users\ok\Documents\LAB365\labschool)
+[34mINFO [0;39m 20-09-2023 - 21:23:44.517 [main] c.e.labschool.LabschoolApplication - No active profile set, falling back to 1 default profile: "default"
+[34mINFO [0;39m 20-09-2023 - 21:23:47.529 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34mINFO [0;39m 20-09-2023 - 21:23:47.837 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 278 ms. Found 3 JPA repository interfaces.
+[34mINFO [0;39m 20-09-2023 - 21:23:51.089 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[34mINFO [0;39m 20-09-2023 - 21:23:51.140 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[34mINFO [0;39m 20-09-2023 - 21:23:51.141 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[34mINFO [0;39m 20-09-2023 - 21:23:51.627 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[34mINFO [0;39m 20-09-2023 - 21:23:51.629 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6890 ms
+[34mINFO [0;39m 20-09-2023 - 21:23:52.303 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34mINFO [0;39m 20-09-2023 - 21:23:52.581 [main] org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.7.Final
+[34mINFO [0;39m 20-09-2023 - 21:23:52.593 [main] org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+[34mINFO [0;39m 20-09-2023 - 21:23:53.233 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 20-09-2023 - 21:23:53.957 [main] o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34mINFO [0;39m 20-09-2023 - 21:23:54.025 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[34mINFO [0;39m 20-09-2023 - 21:23:56.966 [main] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@46cf8c07
+[34mINFO [0;39m 20-09-2023 - 21:23:56.969 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[34mINFO [0;39m 20-09-2023 - 21:23:58.258 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 20-09-2023 - 21:24:00.655 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[34mINFO [0;39m 20-09-2023 - 21:24:03.015 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[34mINFO [0;39m 20-09-2023 - 21:24:04.098 [main] o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+[31mWARN [0;39m 20-09-2023 - 21:24:08.640 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34mINFO [0;39m 20-09-2023 - 21:24:11.451 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[34mINFO [0;39m 20-09-2023 - 21:24:11.541 [main] c.e.labschool.LabschoolApplication - Started LabschoolApplication in 28.672 seconds (process running for 30.1)
+[34mINFO [0;39m 20-09-2023 - 21:24:11.567 [main] c.e.labschool.LabschoolApplication - API INICIADA COM SUCESSO.
+[34mINFO [0;39m 20-09-2023 - 21:25:36.889 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[34mINFO [0;39m 20-09-2023 - 21:25:36.889 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[34mINFO [0;39m 20-09-2023 - 21:25:36.890 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[34mINFO [0;39m 20-09-2023 - 21:25:37.549 [http-nio-8080-exec-1] c.e.l.controllers.PedagogoController - Pedagogo não foi identificado.
+[34mINFO [0;39m 20-09-2023 - 21:29:36.141 [http-nio-8080-exec-5] c.e.l.controllers.PedagogoController - Pedagogo não foi identificado.
+[34mINFO [0;39m 20-09-2023 - 21:31:27.321 [http-nio-8080-exec-8] c.e.l.controllers.PedagogoController - Consulta Pedagogo concluída
+[34mINFO [0;39m 20-09-2023 - 21:34:16.836 [main] c.e.labschool.LabschoolApplication - Starting LabschoolApplication using Java 17.0.2 with PID 19924 (C:\Users\ok\Documents\LAB365\labschool\target\classes started by ok in C:\Users\ok\Documents\LAB365\labschool)
+[34mINFO [0;39m 20-09-2023 - 21:34:16.841 [main] c.e.labschool.LabschoolApplication - No active profile set, falling back to 1 default profile: "default"
+[34mINFO [0;39m 20-09-2023 - 21:34:19.877 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34mINFO [0;39m 20-09-2023 - 21:34:20.278 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 357 ms. Found 3 JPA repository interfaces.
+[34mINFO [0;39m 20-09-2023 - 21:34:22.953 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[34mINFO [0;39m 20-09-2023 - 21:34:22.987 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[34mINFO [0;39m 20-09-2023 - 21:34:22.988 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[34mINFO [0;39m 20-09-2023 - 21:34:23.420 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[34mINFO [0;39m 20-09-2023 - 21:34:23.421 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6366 ms
+[34mINFO [0;39m 20-09-2023 - 21:34:24.012 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34mINFO [0;39m 20-09-2023 - 21:34:24.247 [main] org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.7.Final
+[34mINFO [0;39m 20-09-2023 - 21:34:24.255 [main] org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+[34mINFO [0;39m 20-09-2023 - 21:34:24.869 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 20-09-2023 - 21:34:25.406 [main] o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34mINFO [0;39m 20-09-2023 - 21:34:25.475 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[34mINFO [0;39m 20-09-2023 - 21:34:28.039 [main] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3dc39459
+[34mINFO [0;39m 20-09-2023 - 21:34:28.043 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[34mINFO [0;39m 20-09-2023 - 21:34:29.398 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 20-09-2023 - 21:34:32.009 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[34mINFO [0;39m 20-09-2023 - 21:34:34.398 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[34mINFO [0;39m 20-09-2023 - 21:34:35.071 [main] o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+[31mWARN [0;39m 20-09-2023 - 21:34:38.607 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34mINFO [0;39m 20-09-2023 - 21:34:40.503 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[34mINFO [0;39m 20-09-2023 - 21:34:40.566 [main] c.e.labschool.LabschoolApplication - Started LabschoolApplication in 25.519 seconds (process running for 27.183)
+[34mINFO [0;39m 20-09-2023 - 21:34:40.588 [main] c.e.labschool.LabschoolApplication - API INICIADA COM SUCESSO.
+[34mINFO [0;39m 20-09-2023 - 21:35:00.904 [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[34mINFO [0;39m 20-09-2023 - 21:35:00.905 [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[34mINFO [0;39m 20-09-2023 - 21:35:00.906 [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[34mINFO [0;39m 20-09-2023 - 21:35:00.948 [http-nio-8080-exec-3] c.e.l.controllers.PedagogoController - Listagem Pedagogos Concluída.
+[34mINFO [0;39m 20-09-2023 - 21:35:32.089 [http-nio-8080-exec-4] c.e.l.controllers.PedagogoController - Instância Pedagogo cadastrada: Alexandre
+[34mINFO [0;39m 21-09-2023 - 19:53:13.541 [main] c.e.labschool.LabschoolApplication - Starting LabschoolApplication using Java 17.0.2 with PID 21512 (C:\Users\ok\Documents\LAB365\labschool\target\classes started by ok in C:\Users\ok\Documents\LAB365\labschool)
+[34mINFO [0;39m 21-09-2023 - 19:53:13.548 [main] c.e.labschool.LabschoolApplication - No active profile set, falling back to 1 default profile: "default"
+[34mINFO [0;39m 21-09-2023 - 19:53:19.519 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34mINFO [0;39m 21-09-2023 - 19:53:20.118 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 537 ms. Found 3 JPA repository interfaces.
+[34mINFO [0;39m 21-09-2023 - 19:53:25.370 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[34mINFO [0;39m 21-09-2023 - 19:53:25.435 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[34mINFO [0;39m 21-09-2023 - 19:53:25.437 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[34mINFO [0;39m 21-09-2023 - 19:53:26.336 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[34mINFO [0;39m 21-09-2023 - 19:53:26.338 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 12466 ms
+[34mINFO [0;39m 21-09-2023 - 19:53:27.991 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34mINFO [0;39m 21-09-2023 - 19:53:28.418 [main] org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.7.Final
+[34mINFO [0;39m 21-09-2023 - 19:53:28.425 [main] org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+[34mINFO [0;39m 21-09-2023 - 19:53:29.372 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 21-09-2023 - 19:53:30.007 [main] o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34mINFO [0;39m 21-09-2023 - 19:53:30.079 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[34mINFO [0;39m 21-09-2023 - 19:53:34.191 [main] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5abf6a99
+[34mINFO [0;39m 21-09-2023 - 19:53:34.199 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[34mINFO [0;39m 21-09-2023 - 19:53:36.487 [main] o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+[34mINFO [0;39m 21-09-2023 - 19:53:42.661 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[34mINFO [0;39m 21-09-2023 - 19:53:45.188 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[34mINFO [0;39m 21-09-2023 - 19:53:46.851 [main] o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+[31mWARN [0;39m 21-09-2023 - 19:53:49.875 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34mINFO [0;39m 21-09-2023 - 19:53:51.085 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[34mINFO [0;39m 21-09-2023 - 19:53:51.122 [main] c.e.labschool.LabschoolApplication - Started LabschoolApplication in 40.641 seconds (process running for 43.486)
+[34mINFO [0;39m 21-09-2023 - 19:53:51.130 [main] c.e.labschool.LabschoolApplication - API INICIADA COM SUCESSO.
+[34mINFO [0;39m 21-09-2023 - 19:56:30.671 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[34mINFO [0;39m 21-09-2023 - 19:56:30.671 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[34mINFO [0;39m 21-09-2023 - 19:56:30.674 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+[31mWARN [0;39m 21-09-2023 - 19:56:30.740 [http-nio-8080-exec-1] o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[34mINFO [0;39m 21-09-2023 - 19:59:55.713 [http-nio-8080-exec-2] c.e.l.controllers.PedagogoController - Instância Pedagogo cadastrada: Joana
+[34mINFO [0;39m 21-09-2023 - 20:03:08.918 [http-nio-8080-exec-9] c.e.l.controllers.PedagogoController - Instância Pedagogo cadastrada: Joana
